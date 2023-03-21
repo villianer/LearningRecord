@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "D:\\Obsidian\\learning record\\.obsidian\\plugins\\obsidian-pandoc",
+  "pdflatex": null,
+  "outputFolder": "D:\\Obsidian\\learning record\\Export",
+  "extraArguments": "",
+  "exportFrom": "md"
+}
