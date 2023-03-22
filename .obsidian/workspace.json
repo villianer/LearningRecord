@@ -12,27 +12,38 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b06558d4478ed364",
-                "type": "leaf",
-                "state": {
-                  "type": "memos_view",
-                  "state": {}
-                }
-              },
-              {
                 "id": "8f04900d4cb812a9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Git/Git 复习.md",
+                    "file": "Diary/2023-03-22-Wed.md",
                     "mode": "source",
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e8f8e9faf6ea4ae1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Diary/2023-03-21-Tue.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "82efe68896d3b392",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "e2a7052c1f014d2d",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git 复习.md"
+                "file": "Diary/2023-03-22-Wed.md"
               }
             }
           },
@@ -152,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git 复习.md",
+                "file": "Diary/2023-03-22-Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,14 +180,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git 复习.md",
+                "file": "Diary/2023-03-22-Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c056af3793b91404",
+            "id": "b2e37438ddf15e75",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -184,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,18 +216,23 @@
   },
   "active": "8f04900d4cb812a9",
   "lastOpenFiles": [
-    "Git/git-cheat-sheet.pdf",
-    "Git/Git 复习.md",
-    "Git/入门.md",
-    "Git/SSH.md",
     "Git/Git 基本操作.md",
     "Git/Git config.md",
     "Git/Git Branch Managment.md",
+    "Git/Git 复习.md",
+    "Diary/2023-03-22-Wed.md",
+    "Diary/2023-03-20-Mon.md",
+    "Diary/2023-03-21-Tue.md",
+    "电路复习/第一章.md",
+    "电路复习/第二章.md",
+    "电路复习",
+    "README.md",
+    "Git/git-cheat-sheet.pdf",
+    "Git/入门.md",
+    "Git/SSH.md",
     "Pasted image 20230321104342.png",
     "![[Pasted.md",
     "Pasted image 20230321104229.png",
-    "Diary/2023-03-21-Tue.md",
-    "Diary/2023-03-20-Mon.md",
     "Diary/2023-03-19-Sun.md",
     "Diary/2023-03-18-Sat.md",
     "Diary/2023-03-17-Fri.md",
