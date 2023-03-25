@@ -10,33 +10,59 @@
           {
             "id": "0fb5a31ea95a58e2",
             "type": "tabs",
+            "dimension": 50,
             "children": [
               {
-                "id": "b06558d4478ed364",
+                "id": "36a63cc6289afa30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "C/数据类型转换.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f2da2f5923c6a5bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "C/数组.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d873673e45275844",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Git/Git config.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6d53d7a1a185e9bb",
                 "type": "leaf",
                 "state": {
                   "type": "memos_view",
                   "state": {}
                 }
-              },
-              {
-                "id": "8f04900d4cb812a9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Git/Git 复习.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "e2a7052c1f014d2d",
             "type": "tabs",
+            "dimension": 50,
             "children": [
               {
                 "id": "acd8b0f341935731",
@@ -68,7 +94,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -78,10 +104,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#未来要做的事情",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -134,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git 复习.md"
+                "file": "Git/Git config.md"
               }
             }
           },
@@ -152,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git 复习.md",
+                "file": "Git/Git config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,14 +195,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git 复习.md",
+                "file": "Git/Git config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c056af3793b91404",
+            "id": "b2e37438ddf15e75",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -184,11 +210,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,36 +230,47 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8f04900d4cb812a9",
+  "active": "d873673e45275844",
   "lastOpenFiles": [
-    "Git/git-cheat-sheet.pdf",
-    "Git/Git 复习.md",
     "Git/入门.md",
-    "Git/SSH.md",
-    "Git/Git 基本操作.md",
     "Git/Git config.md",
-    "Git/Git Branch Managment.md",
-    "Pasted image 20230321104342.png",
-    "![[Pasted.md",
-    "Pasted image 20230321104229.png",
-    "Diary/2023-03-21-Tue.md",
-    "Diary/2023-03-20-Mon.md",
-    "Diary/2023-03-19-Sun.md",
-    "Diary/2023-03-18-Sat.md",
-    "Diary/2023-03-17-Fri.md",
-    "Diary/2023-03-16-Thu.md",
-    "Git/git-cheat-sheet 1.pdf",
-    "Test/testtemplatepractice.md",
-    "Template/test template.md",
-    "Template/Diary template.md",
-    "Test/flow chart.md",
+    "C/函数.md",
+    "C/数组.md",
+    "C/数据类型转换.md",
+    "C/Key word 32.md",
+    "C/C语言的编成机制.md",
+    "C/Printf函数与putchar函数.md",
+    "C/运算符.md",
     "Untitled.md",
+    "C/数据类型.md",
+    "Diary/2023-03-24-Fri.md",
+    "Pasted image 20230324095725.png",
+    "Pasted image 20230324092831.png",
+    "Pasted image 20230324092743.png",
+    "Pasted image 20230324092050.png",
+    "Diary/2023-03-23-Thu.md",
+    "Diary/2023-03-19-Sun.md",
+    "Diary/2023-03-20-Mon.md",
+    "Diary/2023-03-21-Tue.md",
+    "Diary/2023-03-22-Wed.md",
+    "Template/Diary template.md",
+    "Git/Git Branch Managment.md",
+    "Diary/2023-03-16-Thu.md",
+    "README.md",
+    "Pasted image 20230321104342.png",
+    "C",
+    "sym32/Cotex-M内核基础介绍.md",
+    "sym32",
+    "Diary/2023-03-17-Fri.md",
+    "Diary/2023-03-18-Sat.md",
+    "Git/Git 复习.md",
+    "Git/Git 基本操作.md",
+    "电路复习",
+    "Git/git-cheat-sheet.pdf",
+    "Pasted image 20230321104229.png",
+    "Git/git-cheat-sheet 1.pdf",
     "Git",
-    "未命名.md",
-    "未命名思维导图.md",
     "Export",
-    "Test/test.md",
-    "Template/template2.md",
     "Test",
     "Diary",
     "Template"

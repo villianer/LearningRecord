@@ -62,6 +62,8 @@ git config --global user.email test@runoob.com
 
 ## 撤销提交
 git reset --hard HEAD~  将HEAD往上移
-git 
+git stash 保存当前分支所有工作状态
+git stash list
+git stash pop恢复
 
 
