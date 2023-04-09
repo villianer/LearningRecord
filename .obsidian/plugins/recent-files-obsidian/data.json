@@ -1,8 +1,105 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "2023-03-22-Wed",
       "path": "Diary/2023-03-22-Wed.md"
+=======
+      "basename": "2023-04-09-Sun",
+      "path": "Diary/2023-04-09-Sun.md"
+    },
+    {
+      "basename": "2023-04-02-Sun",
+      "path": "Diary/2023-04-02-Sun.md"
+    },
+    {
+      "basename": "2023-03-27-Mon",
+      "path": "Diary/2023-03-27-Mon.md"
+    },
+    {
+      "basename": "2023-04-07-Fri",
+      "path": "Diary/2023-04-07-Fri.md"
+    },
+    {
+      "basename": "2023-04-08-Sat",
+      "path": "Diary/2023-04-08-Sat.md"
+    },
+    {
+      "basename": "2023-03-19-Sun",
+      "path": "Diary/2023-03-19-Sun.md"
+    },
+    {
+      "basename": "2023-03-17-Fri",
+      "path": "Diary/2023-03-17-Fri.md"
+    },
+    {
+      "basename": "2023-03-16-Thu",
+      "path": "Diary/2023-03-16-Thu.md"
+    },
+    {
+      "basename": "示波器参数",
+      "path": "示波器参数/示波器参数.md"
+    },
+    {
+      "basename": "2023-04-03-Mon",
+      "path": "Diary/2023-04-03-Mon.md"
+    },
+    {
+      "basename": "2023-04-04-Tue",
+      "path": "Diary/2023-04-04-Tue.md"
+    },
+    {
+      "basename": "2023-04-05-Wed",
+      "path": "Diary/2023-04-05-Wed.md"
+    },
+    {
+      "basename": "Git 复习",
+      "path": "Git/Git 复习.md"
+    },
+    {
+      "basename": "2023-03-25-Sat",
+      "path": "Diary/2023-03-25-Sat.md"
+    },
+    {
+      "basename": "2023-03-24-Fri",
+      "path": "Diary/2023-03-24-Fri.md"
+    },
+    {
+      "basename": "2023-03-23-Thu",
+      "path": "Diary/2023-03-23-Thu.md"
+    },
+    {
+      "basename": "2023-03-22-Wed",
+      "path": "Diary/2023-03-22-Wed.md"
+    },
+    {
+      "basename": "2023-03-21-Tue",
+      "path": "Diary/2023-03-21-Tue.md"
+    },
+    {
+      "basename": "2023-03-20-Mon",
+      "path": "Diary/2023-03-20-Mon.md"
+    },
+    {
+      "basename": "2023-03-18-Sat",
+      "path": "Diary/2023-03-18-Sat.md"
+    },
+    {
+      "basename": "2023-03-26-Sun",
+      "path": "Diary/2023-03-26-Sun.md"
+    },
+    {
+      "basename": "git-cheat-sheet",
+      "path": "Git/git-cheat-sheet.pdf"
+    },
+    {
+      "basename": "Git Branch Managment",
+      "path": "Git/Git Branch Managment.md"
+    },
+    {
+      "basename": "SSH",
+      "path": "Git/SSH.md"
+>>>>>>> master
     },
     {
       "basename": "Git 基本操作",
@@ -13,18 +110,24 @@
       "path": "Git/Git config.md"
     },
     {
-      "basename": "Git Branch Managment",
-      "path": "Git/Git Branch Managment.md"
+      "basename": "入门",
+      "path": "Git/入门.md"
     },
     {
+<<<<<<< HEAD
       "basename": "Git 复习",
       "path": "Git/Git 复习.md"
+=======
+      "basename": "2023-04-01-Sat",
+      "path": "Diary/2023-04-01-Sat.md"
+>>>>>>> master
     },
     {
-      "basename": "2023-03-20-Mon",
-      "path": "Diary/2023-03-20-Mon.md"
+      "basename": "2023-03-31-Fri",
+      "path": "Diary/2023-03-31-Fri.md"
     },
     {
+<<<<<<< HEAD
       "basename": "2023-03-21-Tue",
       "path": "Diary/2023-03-21-Tue.md"
     },
@@ -51,22 +154,70 @@
     {
       "basename": "2023-03-19-Sun",
       "path": "Diary/2023-03-19-Sun.md"
+=======
+      "basename": "2023-03-30-Thu",
+      "path": "Diary/2023-03-30-Thu.md"
+>>>>>>> master
     },
     {
-      "basename": "2023-03-18-Sat",
-      "path": "Diary/2023-03-18-Sat.md"
+      "basename": "2023-03-29-Wed",
+      "path": "Diary/2023-03-29-Wed.md"
     },
     {
-      "basename": "2023-03-17-Fri",
-      "path": "Diary/2023-03-17-Fri.md"
+      "basename": "2023-03-28-Tue",
+      "path": "Diary/2023-03-28-Tue.md"
     },
     {
-      "basename": "2023-03-16-Thu",
-      "path": "Diary/2023-03-16-Thu.md"
+      "basename": "Cotex-M内核基础介绍",
+      "path": "sym32/Cotex-M内核基础介绍.md"
     },
     {
-      "basename": "testtemplatepractice",
-      "path": "Test/testtemplatepractice.md"
+      "basename": "Pasted image 20230328175245",
+      "path": "Pasted image 20230328175245.png"
+    },
+    {
+      "basename": "指针",
+      "path": "指针.md"
+    },
+    {
+      "basename": "Pasted image 20230324095725",
+      "path": "Pasted image 20230324095725.png"
+    },
+    {
+      "basename": "Pasted image 20230324092831",
+      "path": "Pasted image 20230324092831.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "简介",
+      "path": "51单片机/简介.md"
+    },
+    {
+      "basename": "flow chart",
+      "path": "Test/flow chart.md"
+    },
+    {
+      "basename": "函数",
+      "path": "C/函数.md"
+    },
+    {
+      "basename": "C语言的编成机制",
+      "path": "C/C语言的编成机制.md"
+    },
+    {
+      "basename": "Printf函数与putchar函数",
+      "path": "C/Printf函数与putchar函数.md"
+    },
+    {
+      "basename": "运算符",
+      "path": "C/运算符.md"
+    },
+    {
+      "basename": "数组",
+      "path": "C/数组.md"
     },
     {
       "basename": "test template",
@@ -77,8 +228,16 @@
       "path": "Template/Diary template.md"
     },
     {
-      "basename": "flow chart",
-      "path": "Test/flow chart.md"
+      "basename": "testtemplatepractice",
+      "path": "Test/testtemplatepractice.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "C/数据类型.md"
+    },
+    {
+      "basename": "数据类型转换",
+      "path": "C/数据类型转换.md"
     }
   ],
   "omittedPaths": [],

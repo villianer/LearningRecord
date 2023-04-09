@@ -3,7 +3,7 @@ git 是一个分布式版本管理工具  SVN 是一个集中式管理工具 不
 [博客园](https://www.cnblogs.com/syp172654682/p/7689328.html)
 git 下载安装 git 官网
 
-Linux 命令
+Linux 命令 ^e52dd7
 
 gitee github 远程仓库建立 使用SSH配置公钥.SSH文件
 
@@ -62,6 +62,8 @@ git config --global user.email test@runoob.com
 
 ## 撤销提交
 git reset --hard HEAD~  将HEAD往上移
-git 
+git stash 保存当前分支所有工作状态
+git stash list
+git stash pop恢复
 
 

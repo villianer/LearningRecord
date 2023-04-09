@@ -4,10 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d646acaa191027a",
-        "type": "split",
+        "id": "27e419bec3127438",
+        "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "0fb5a31ea95a58e2",
             "type": "tabs",
             "children": [
@@ -58,9 +59,20 @@
                 }
               }
             ]
+=======
+            "id": "b0852df56e81a62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023-04-09-Sun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+>>>>>>> master
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +91,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -89,10 +101,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#emotion",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -145,7 +157,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Diary/2023-03-22-Wed.md"
+=======
+                "file": "Diary/2023-04-09-Sun.md"
+>>>>>>> master
               }
             }
           },
@@ -163,7 +179,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Diary/2023-03-22-Wed.md",
+=======
+                "file": "Diary/2023-04-09-Sun.md",
+>>>>>>> master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,14 +200,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Diary/2023-03-22-Wed.md",
+=======
+                "file": "Diary/2023-04-09-Sun.md",
+>>>>>>> master
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "b2e37438ddf15e75",
+=======
+            "id": "c1e86fd912747540",
+>>>>>>> master
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -199,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +242,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8f04900d4cb812a9",
+  "active": "b0852df56e81a62b",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Git/Git 基本操作.md",
     "Git/Git config.md",
     "Git/Git Branch Managment.md",
@@ -230,27 +259,57 @@
     "Git/git-cheat-sheet.pdf",
     "Git/入门.md",
     "Git/SSH.md",
+=======
+    "Diary/2023-03-27-Mon.md",
+    "Diary/2023-04-02-Sun.md",
+    "Diary/2023-04-07-Fri.md",
+    "Diary/2023-04-08-Sat.md",
+    "Diary/2023-04-09-Sun.md",
+    "Diary/2023-03-19-Sun.md",
+    "Diary/2023-03-17-Fri.md",
+    "Diary/2023-03-16-Thu.md",
+    "示波器参数/示波器参数.md",
+    "示波器参数",
+    "Diary/2023-04-03-Mon.md",
+    "Diary/2023-04-04-Tue.md",
+    "Diary/2023-04-05-Wed.md",
+    "Git/Git 复习.md",
+    "Diary/2023-03-25-Sat.md",
+    "Diary/2023-03-24-Fri.md",
+    "Diary/2023-03-23-Thu.md",
+    "Diary/2023-03-22-Wed.md",
+    "Diary/2023-03-21-Tue.md",
+    "Diary/2023-03-20-Mon.md",
+    "Diary/2023-03-18-Sat.md",
+    "Diary/2023-03-26-Sun.md",
+    "Git/git-cheat-sheet.pdf",
+    "Git/Git Branch Managment.md",
+    "Git/SSH.md",
+    "Git/Git 基本操作.md",
+    "Git/Git config.md",
+    "Git/入门.md",
+    "Pasted image 20230328175245.png",
+    "Pasted image 20230324095725.png",
+    "Pasted image 20230324092831.png",
+    "存储器.xmind",
+    "51单片机",
+    "Pasted image 20230324092743.png",
+    "Pasted image 20230324092050.png",
+>>>>>>> master
     "Pasted image 20230321104342.png",
-    "![[Pasted.md",
+    "C",
+    "sym32",
+    "电路复习",
     "Pasted image 20230321104229.png",
+<<<<<<< HEAD
     "Diary/2023-03-19-Sun.md",
     "Diary/2023-03-18-Sat.md",
     "Diary/2023-03-17-Fri.md",
     "Diary/2023-03-16-Thu.md",
+=======
+>>>>>>> master
     "Git/git-cheat-sheet 1.pdf",
-    "Test/testtemplatepractice.md",
-    "Template/test template.md",
-    "Template/Diary template.md",
-    "Test/flow chart.md",
-    "Untitled.md",
     "Git",
-    "未命名.md",
-    "未命名思维导图.md",
-    "Export",
-    "Test/test.md",
-    "Template/template2.md",
-    "Test",
-    "Diary",
-    "Template"
+    "Export"
   ]
 }
