@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 22,
+  "cssTheme": "Obsidian Nord"
 }

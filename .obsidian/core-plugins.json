@@ -13,9 +13,10 @@
   "note-composer",
   "command-palette",
   "editor-status",
-  "starred",
+  "bookmarks",
   "markdown-importer",
   "outline",
   "word-count",
+  "audio-recorder",
   "file-recovery"
 ]
