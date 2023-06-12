@@ -8,7 +8,7 @@
 	3. PC:程序寄存器 24位 用于存储CPU下一条要执行指令的地址。在每次指令执行后自动刷新，由于他有24位，所以STM8内核有16Mbyte (2^24)byte的寻址空间
 	4. stack Pointer(SP):堆栈寄存器 16位 包含堆栈下个空位的地址，堆栈用于在子程序调用或中断时保存CPU内容
 	   ![](https://private-warehouse-1317335037.cos.ap-guangzhou.myqcloud.com/Test/Screenshot%202023-04-27%20224910.png)
-	5. 全局配置寄存器 CFG_GCR  低功耗CPU专有的寄存器  用于控制低功耗模式  是一个内存映射寄存器 他控制处理器的配置 他包含AL控制位 AL：激活等级 如果AL位置哦（主要），IRET指令将会使CPU寄存器的值从堆栈中恢复，然后main程序继续执行在WFI指令之后。如果AL位置1，IRET会导致CPU回到WFI/HALT模式。 在低功耗应用场合 MCU在大多数时间在WFI/HALT模式，在冲断发生时再去执行一些特定的任务，有一些重复的任务非常简单可以直接在ISR中断服务子程序中处理完成，在执行前将AL置1就可以在程序执行完ISR 后直接回到WFI/HALT模式。
+	5. 全局配置寄存器 CFG_GCR  低功耗CPU专有的寄存器  用于控制低功耗模式  是一个内存映射寄存器 他控制处理器的配置 他包含AL控制位 AL：激活等级 如果AL位置哦（主要），IRET指令将会使CPU寄存器的值从堆栈中恢复，然后main程序继续执行在WFI指令之后。如果AL位置1，IRET会导致CPU回到WFI/HALT模式。 在低功耗应用场合 MCU在大多数时间在WFI/HALT模式，在中断发生时再去执行一些特定的任务，有一些重复的任务非常简单可以直接在ISR中断服务子程序中处理完成，在执行前将AL置1就可以在程序执行完ISR 后直接回到WFI/HALT模式。
 	6. 条件代码寄存器 condition code register条件代码寄存器是一个8位寄存器，用于指示刚被执行的指令结果以及处理器的状态。寄存器的第7位MSB使保留位，这些位可以被用户的程序或者代码单独的测试，测试结果可用于指示程序或代码执行后的状态。
 	 ![](https://private-warehouse-1317335037.cos.ap-guangzhou.myqcloud.com/Test/Screenshot%202023-04-27%20234744.png)
 	  V: 置1表示最后一次数据运算溢出

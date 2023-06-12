@@ -1,106 +1,39 @@
 {
   "main": {
-    "id": "5ffc97b62534c660",
+    "id": "187775efd1f340b1",
     "type": "split",
     "children": [
       {
-        "id": "32229aa9319276c0",
+        "id": "f386207e3ec6c2a1",
         "type": "tabs",
         "children": [
           {
-            "id": "34196b9b61651662",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8003bdbad00e0e8",
+            "id": "827aeb18fde92e1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM8学习/STM8参考手册学习.md",
+                "file": "Diary/2023-03-27-Mon.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f51236652468a5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2023-03-26-Sun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06eb59915e4e38ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM8学习/单片机ISR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
->>>>>>> master
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2051cafef962427d",
+    "id": "6d904cb84c625f5d",
     "type": "split",
     "children": [
       {
-        "id": "73ef323aff43b33b",
+        "id": "69f26655d8b04e40",
         "type": "tabs",
         "children": [
           {
-            "id": "bcb4ee748ab1804b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
-          {
-            "id": "084bef6e2c77448c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#emotion",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "500dab6b8a2db39b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "f2871f87d96187f3",
+            "id": "1ea16b6df3c66766",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -108,50 +41,55 @@
             }
           },
           {
-            "id": "0d627249c6ef0d82",
+            "id": "00aa50edf79cdff6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eaceef77a0a12fbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cee893f341437d1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "1d423a5ba89586c8",
+    "id": "b70000125f5efa3c",
     "type": "split",
     "children": [
       {
-        "id": "54d7d67898d34dd2",
+        "id": "4de1ed1542c83c14",
         "type": "tabs",
         "children": [
           {
-            "id": "11b58f87f8ee08d1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "c2057b125fa919c5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Diary/2023-03-26-Sun.md"
-              }
-            }
-          },
-          {
-            "id": "739a429e556b1f27",
+            "id": "90277463f4068620",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -159,12 +97,12 @@
             }
           },
           {
-            "id": "4f67a78a5355beb7",
+            "id": "ff8eeab1e297e951",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-03-26-Sun.md",
+                "file": "Diary/2023-03-27-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,26 +114,56 @@
             }
           },
           {
-            "id": "c5671b9ae241a5a5",
+            "id": "afa365e5e15d2c49",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-03-26-Sun.md",
+                "file": "Diary/2023-03-27-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9c8b70b7ce14fc5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6aae2552726ed049",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/2023-03-27-Mon.md"
+              }
+            }
+          },
+          {
+            "id": "449eb776c5b5516b",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -205,58 +173,48 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f51236652468a5cc",
+  "active": "827aeb18fde92e1b",
   "lastOpenFiles": [
+    "Diary/2023-03-26-Sun.md",
     "Diary/2023-03-25-Sat.md",
     "Diary/2023-03-24-Fri.md",
     "Diary/2023-03-23-Thu.md",
-    "Diary/2023-03-18-Sat.md",
+    "Diary/2023-03-22-Wed.md",
+    "Diary/2023-03-21-Tue.md",
     "Diary/2023-03-20-Mon.md",
-    "Diary/2023-03-17-Fri.md",
-    "Diary/2023-03-16-Thu.md",
     "Diary/2023-03-19-Sun.md",
-    "Diary/2023-05-05-Fri.md",
-    "Test/flow chart.md",
-    "STM8学习/STM8启动代码数据手册.md",
-    "Template/Diary template.md",
+    "Diary/2023-03-18-Sat.md",
+    "Diary/2023-03-17-Fri.md",
     "MarkdownTemplate.md",
-    "STM8学习/STM8L内核.md",
-    "STM8学习/STM8参考手册学习.md",
-    "Pasted image 20230428171449.png",
-    "Diary/2023-05-04-Thu.md",
-    "STM8学习/单片机ISR.md",
-    "这里写自定义目录标题.md",
-    "Diary/2023-04-27-Thu.md",
-    "Diary/2023-04-26-Wed.md",
-    "Diary/2023-04-25-Tue.md",
-    "Diary/2023-04-24-Mon.md",
-    "Diary/2023-04-23-Sun.md",
-    "Diary/2023-04-22-Sat.md",
-    "Diary/2023-04-20-Thu.md",
-    "Diary/2023-04-19-Wed.md",
-    "Pasted image 20230428005632.png",
-    "Pasted image 20230428005621.png",
-    "STM8学习",
-    "LearningEnglish",
-    "Lora模块开发",
-    "无线磁门开发",
-    "c语言指针",
-    "Pasted image 20230328175245.png",
-    "Pasted image 20230324095725.png",
-    "Pasted image 20230324092831.png",
-    "示波器参数",
-    "Git/git-cheat-sheet.pdf",
-    "存储器.xmind",
-    "51单片机",
-    "Pasted image 20230324092743.png",
-    "Pasted image 20230324092050.png",
->>>>>>> master
-    "Pasted image 20230321104342.png",
-    "C",
-    "Pasted image 20230321104229.png"
+    "Diary/2023-03-16-Thu.md",
+    "Lora模块开发/Lora SX1276.md",
+    "[.md",
+    "Diary/2023-06-07-Wed.md",
+    "Diary/2023-06-12-Mon.md",
+    "Diary/2023-06-09-Fri.md",
+    "Diary/2023-06-06-Tue.md",
+    "Diary/2023-06-05-Mon.md",
+    "sym32/stm32烧录.md",
+    "sym32/Cotex-M内核基础介绍.md",
+    "ARM/ARM Cortex-M.md",
+    "CAN/LIN.md",
+    "ARM",
+    "Untitled.md",
+    "CAN/CAN.md",
+    "网络通信/MAC.md",
+    "网络通信",
+    "CAN",
+    "Pasted image 20230524151514.png",
+    "Pasted image 20230525145653.png",
+    "Pasted image 20230525142505.png",
+    "Pasted image 20230525141258.png",
+    "Pasted image 20230525141243.png",
+    "Pasted image 20230525135903.png",
+    "Pasted image 20230525093606.png",
+    "Pasted image 20230524145517.png",
+    "DataStructure"
   ]
 }
