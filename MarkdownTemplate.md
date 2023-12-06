@@ -25,7 +25,7 @@
 撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd>
 重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd>
 加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd>
-斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd>
+*斜体*：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd>
 标题：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 无序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
 有序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
@@ -92,15 +92,31 @@ var foo = 'bar';
 1. 项目1
 2. 项目2
 3. 项目3
+---
+- [x]
+
+
+
 
 - [ ] 计划任务
 - [x] 完成任务
 - [x] sadas
-- [ ] 
+
+
+- [ ] 未完成
+- [x] 已完成
+
+- [x]
+- [x]
+
+
+
 
 ## 创建一个表格
 
 一个简单的表格是这么创建的：
+
+
 
 
 | table head | table head2 | table head3 |
@@ -116,6 +132,9 @@ var foo = 'bar';
 | :------------: | -------------: | :------------- |
 | 第一列文本居中 | 第二列文本居右 | 第三列文本居左 |
 
+
+| ssss | hikdjkdkl | dddk |
+|--:|:-:|:-|
 ### SmartyPants
 
 SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例如：
@@ -211,10 +230,17 @@ C-->|NG|B
 
 ``` mermaid
 pie 
-	title title1
-	"red" : 85
+	title 123
+	re : 85
 	"greed" : 12
 	"violet" : 3
+```
+``` mermaid 
+pie 
+	title 121
+	"greed":20
+	"red":15
+	"white":54
 ```
 
 - 关于 **Mermaid** 语法，参考 [这儿][3],
@@ -252,4 +278,9 @@ cond(no)->op
 [2]: https://mermaidjs.github.io/
 [3]: https://mermaidjs.github.io/
 [4]: http://adrai.github.io/flowchart.js/
-````
+
+- [x] sknkl
+这是一个行内代码``引用``
+![百度](http://www.baidu.com)
+jh [TOC] dcfd
+
