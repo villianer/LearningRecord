@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-05-05-Fri.md",
+                "file": "Diary/2023-05-07-Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-05-05-Fri.md",
+                "file": "Diary/2023-05-07-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-05-05-Fri.md",
+                "file": "Diary/2023-05-07-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-05-05-Fri.md"
+                "file": "Diary/2023-05-07-Sun.md"
               }
             }
           },
@@ -178,32 +178,32 @@
   },
   "active": "06a43e6acb0a724b",
   "lastOpenFiles": [
+    "learning-record",
+    "Diary/2023-05-08-Mon.md",
     "Diary/2023-05-10-Wed.md",
-    "Diary/2023-05-17-Wed.md",
-    "Diary/2023-05-15-Mon.md",
-    "Diary/2023-05-07-Sun.md",
-    "Diary/2023-05-04-Thu.md",
+    "Diary/2023-05-13-Sat.md",
+    "Diary/2023-05-18-Thu.md",
+    "Diary/2023-05-23-Tue.md",
+    "Diary/2023-05-24-Wed.md",
+    "Diary/2023-05-25-Thu.md",
+    "Diary/2023-05-30-Tue.md",
+    "Diary/2023-05-31-Wed.md",
+    "Diary/2023-06-05-Mon.md",
+    "Diary/2023-06-07-Wed.md",
+    "Diary/2023-06-09-Fri.md",
+    "Diary/2023-06-12-Mon.md",
+    "Diary/2023-06-16-Fri.md",
+    "Diary/2023-06-23-Fri.md",
+    "Diary/2023-06-25-Sun.md",
+    "Diary/2023-06-26-Mon.md",
+    "Diary/2023-06-27-Tue.md",
+    "Diary/2023-06-29-Thu.md",
+    "Diary/2023-06-30-Fri.md",
+    "Diary/2023-07-03-Mon.md",
+    "Diary/2023-07-08-Sat.md",
+    "Diary/2023-07-10-Mon.md",
     "Diary/2023-07-11-Tue.md",
-    "Diary/2023-07-17-Mon.md",
-    "Diary/2023-11-10-Fri.md",
-    "Diary/2023-11-13-Mon.md",
-    "Diary/2023-11-15-Wed.md",
-    "Diary/2023-11-21-Tue.md",
-    "Diary/2023-11-22-Wed.md",
-    "Diary/2023-11-23-Thu.md",
-    "Diary/2023-11-25-Sat.md",
-    "Diary/2023-11-28-Tue.md",
-    "Diary/2023-12-06-Wed.md",
-    "Diary/2023-03-25-Sat.md",
-    "Diary/2023-03-26-Sun.md",
-    "Diary/2023-03-29-Wed.md",
-    "Diary/2023-03-28-Tue.md",
-    "Diary/2023-03-27-Mon.md",
-    "Diary/2023-03-24-Fri.md",
-    "Diary/2023-03-23-Thu.md",
-    "Diary/2023-03-22-Wed.md",
-    "Diary/2023-03-21-Tue.md",
-    "Diary/2023-03-20-Mon.md",
+    "Diary/2023-07-15-Sat.md",
     "Pasted image 20230628123651.png",
     "Pasted image 20230627135320.png",
     "Pasted image 20230627134625.png",
