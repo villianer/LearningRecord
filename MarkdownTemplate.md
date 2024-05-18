@@ -21,7 +21,7 @@
 [^1]: [mermaid语法说明](https://mermaidjs.github.io/)
 
 ## 功能快捷键
-
+aass
 撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd>
 重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd>
 加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd>
@@ -94,21 +94,24 @@ var foo = 'bar';
 3. 项目3
 ---
 - [x]
+-  [x]
 
-
+- [X]
 
 
 - [ ] 计划任务
 - [x] 完成任务
 - [x] sadas
-
+- [x]
 
 - [ ] 未完成
-- [x] 已完成
+- [ ] 已完成
 
 - [x]
 - [x]
 
+- [X]
+-  [X]
 
 
 
@@ -120,8 +123,8 @@ var foo = 'bar';
 
 
 | table head | table head2 | table head3 |
-|:----------:|:----------- | -----------:|
-| 居中           |        居左     |     居右        |
+| :--------: | :---------- | ----------: |
+|     居中     | 居左          |          居右 |
 ### 设定内容居中、居左、居右
 
 使用`:---------:`居中

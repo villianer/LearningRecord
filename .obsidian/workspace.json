@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-05-07-Sun.md",
+                "file": "Diary/2023-03-19-Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b70000125f5efa3c",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-05-07-Sun.md",
+                "file": "Diary/2023-03-19-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-05-07-Sun.md",
+                "file": "Diary/2023-03-19-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,12 +142,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-05-07-Sun.md"
+                "file": "Diary/2023-03-19-Sun.md"
               }
             }
           },
           {
-            "id": "6bbc8333674a342a",
+            "id": "e8706f738ad6d854",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "60aef0961f2f89a7",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -159,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,51 +187,51 @@
   },
   "active": "06a43e6acb0a724b",
   "lastOpenFiles": [
+    "Diary/2023-03-18-Sat.md",
+    "Diary/2023-03-17-Fri.md",
+    "Diary/2023-03-19-Sun.md",
+    "Test/flow chart.md",
+    "Diary/2023-03-16-Thu.md",
+    "Git/Git 复习.md",
+    "无线磁门开发/无线磁门原理.md",
+    "网络通信/MAC.md",
+    "示波器参数/示波器参数.md",
+    "51单片机/简介.md",
+    "电路复习/第二章.md",
+    "电路复习/第一章.md",
+    "音乐/视唱练耳.md",
+    "音乐/基础乐理.md",
+    "Diary/2024-05-18-Sat.md",
+    "philosophy/寻找人生的目标.md",
+    "philosophy/如何超越与生俱来的弱点.md",
+    "philosophy/认知觉醒.md",
+    "philosophy/买房需考虑因素.md",
+    "philosophy/刻意练习.md",
+    "philosophy/进化心理学.md",
+    "philosophy/黑格尔.md",
+    "philosophy/蛤蟆先生去看心理医生.md",
+    "philosophy/费希特.md",
+    "philosophy/哲学书籍/哲学书籍.md",
+    "philosophy/哲学书籍/伊曼努尔 康德.md",
+    "Pasted image 20240516133735.png",
+    "Pasted image 20230625115810.png",
+    "cooking",
+    "Pasted image 20230627134945.png",
+    "Pasted image 20230627133750.png",
+    "Pasted image 20230627132702.png",
+    "Pasted image 20230627132303.png",
+    "Pasted image 20230625150609.png",
+    "Improve Efficence",
+    "philosophy/哲学史",
+    "philosophy/哲学书籍",
+    "Untitled 1",
     "learning-record",
-    "Diary/2023-05-08-Mon.md",
-    "Diary/2023-05-10-Wed.md",
-    "Diary/2023-05-13-Sat.md",
-    "Diary/2023-05-18-Thu.md",
-    "Diary/2023-05-23-Tue.md",
-    "Diary/2023-05-24-Wed.md",
-    "Diary/2023-05-25-Thu.md",
-    "Diary/2023-05-30-Tue.md",
-    "Diary/2023-05-31-Wed.md",
-    "Diary/2023-06-05-Mon.md",
-    "Diary/2023-06-07-Wed.md",
-    "Diary/2023-06-09-Fri.md",
-    "Diary/2023-06-12-Mon.md",
-    "Diary/2023-06-16-Fri.md",
-    "Diary/2023-06-23-Fri.md",
-    "Diary/2023-06-25-Sun.md",
-    "Diary/2023-06-26-Mon.md",
-    "Diary/2023-06-27-Tue.md",
-    "Diary/2023-06-29-Thu.md",
-    "Diary/2023-06-30-Fri.md",
-    "Diary/2023-07-03-Mon.md",
-    "Diary/2023-07-08-Sat.md",
-    "Diary/2023-07-10-Mon.md",
-    "Diary/2023-07-11-Tue.md",
-    "Diary/2023-07-15-Sat.md",
     "Pasted image 20230628123651.png",
     "Pasted image 20230627135320.png",
     "Pasted image 20230627134625.png",
-    "Pasted image 20230627133616.png",
-    "Pasted image 20230627132812.png",
-    "Pasted image 20230625150609.png",
-    "Pasted image 20230625115810.png",
     "音乐",
     "Ecnomic",
     "摘抄",
-    "philosophy/认同自己",
-    "philosophy",
-    "Pasted image 20230728165219.png",
-    "STM32OTA",
-    "Pasted image 20230718193856.png",
-    "Pasted image 20230718110816.png",
-    "ESP8266 AT指令",
-    "RTOS",
-    "ARM",
-    "网络通信"
+    "philosophy/认同自己"
   ]
 }

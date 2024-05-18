@@ -1,114 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-05-Fri",
-      "path": "Diary/2023-05-05-Fri.md"
-    },
-    {
-      "basename": "2023-05-10-Wed",
-      "path": "Diary/2023-05-10-Wed.md"
-    },
-    {
-      "basename": "2023-05-17-Wed",
-      "path": "Diary/2023-05-17-Wed.md"
-    },
-    {
-      "basename": "2023-05-15-Mon",
-      "path": "Diary/2023-05-15-Mon.md"
-    },
-    {
-      "basename": "2023-05-07-Sun",
-      "path": "Diary/2023-05-07-Sun.md"
-    },
-    {
-      "basename": "2023-05-04-Thu",
-      "path": "Diary/2023-05-04-Thu.md"
-    },
-    {
-      "basename": "2023-07-11-Tue",
-      "path": "Diary/2023-07-11-Tue.md"
-    },
-    {
-      "basename": "2023-07-17-Mon",
-      "path": "Diary/2023-07-17-Mon.md"
-    },
-    {
-      "basename": "2023-11-10-Fri",
-      "path": "Diary/2023-11-10-Fri.md"
-    },
-    {
-      "basename": "2023-11-13-Mon",
-      "path": "Diary/2023-11-13-Mon.md"
-    },
-    {
-      "basename": "2023-11-15-Wed",
-      "path": "Diary/2023-11-15-Wed.md"
-    },
-    {
-      "basename": "2023-11-21-Tue",
-      "path": "Diary/2023-11-21-Tue.md"
-    },
-    {
-      "basename": "2023-11-22-Wed",
-      "path": "Diary/2023-11-22-Wed.md"
-    },
-    {
-      "basename": "2023-11-23-Thu",
-      "path": "Diary/2023-11-23-Thu.md"
-    },
-    {
-      "basename": "2023-11-25-Sat",
-      "path": "Diary/2023-11-25-Sat.md"
-    },
-    {
-      "basename": "2023-11-28-Tue",
-      "path": "Diary/2023-11-28-Tue.md"
-    },
-    {
-      "basename": "2023-12-06-Wed",
-      "path": "Diary/2023-12-06-Wed.md"
-    },
-    {
-      "basename": "2023-03-25-Sat",
-      "path": "Diary/2023-03-25-Sat.md"
-    },
-    {
-      "basename": "2023-03-26-Sun",
-      "path": "Diary/2023-03-26-Sun.md"
-    },
-    {
-      "basename": "2023-03-29-Wed",
-      "path": "Diary/2023-03-29-Wed.md"
-    },
-    {
-      "basename": "2023-03-28-Tue",
-      "path": "Diary/2023-03-28-Tue.md"
-    },
-    {
-      "basename": "2023-03-27-Mon",
-      "path": "Diary/2023-03-27-Mon.md"
-    },
-    {
-      "basename": "2023-03-24-Fri",
-      "path": "Diary/2023-03-24-Fri.md"
-    },
-    {
-      "basename": "2023-03-23-Thu",
-      "path": "Diary/2023-03-23-Thu.md"
-    },
-    {
-      "basename": "2023-03-22-Wed",
-      "path": "Diary/2023-03-22-Wed.md"
-    },
-    {
-      "basename": "2023-03-21-Tue",
-      "path": "Diary/2023-03-21-Tue.md"
-    },
-    {
-      "basename": "2023-03-20-Mon",
-      "path": "Diary/2023-03-20-Mon.md"
-    },
-    {
       "basename": "2023-03-19-Sun",
       "path": "Diary/2023-03-19-Sun.md"
     },
@@ -121,84 +13,192 @@
       "path": "Diary/2023-03-17-Fri.md"
     },
     {
-      "basename": "Diary template",
-      "path": "Template/Diary template.md"
-    },
-    {
-      "basename": "test template",
-      "path": "Template/test template.md"
-    },
-    {
-      "basename": "Pasted image 20230628123651",
-      "path": "Pasted image 20230628123651.png"
-    },
-    {
-      "basename": "Pasted image 20230627135320",
-      "path": "Pasted image 20230627135320.png"
-    },
-    {
-      "basename": "Pasted image 20230627134625",
-      "path": "Pasted image 20230627134625.png"
-    },
-    {
-      "basename": "Pasted image 20230627133616",
-      "path": "Pasted image 20230627133616.png"
-    },
-    {
-      "basename": "Pasted image 20230627132812",
-      "path": "Pasted image 20230627132812.png"
-    },
-    {
-      "basename": "MarkdownTemplate",
-      "path": "MarkdownTemplate.md"
-    },
-    {
-      "basename": "www.baidu.com",
-      "path": "www.baidu.com.md"
-    },
-    {
-      "basename": "Pasted image 20230625150609",
-      "path": "Pasted image 20230625150609.png"
-    },
-    {
-      "basename": "Pasted image 20230625115810",
-      "path": "Pasted image 20230625115810.png"
+      "basename": "flow chart",
+      "path": "Test/flow chart.md"
     },
     {
       "basename": "2023-03-16-Thu",
       "path": "Diary/2023-03-16-Thu.md"
     },
     {
-      "basename": "Untitled",
-      "path": "摘抄/Untitled.md"
+      "basename": "Git 复习",
+      "path": "Git/Git 复习.md"
     },
     {
-      "basename": "基础乐理",
-      "path": "音乐/基础乐理.md"
+      "basename": "无线磁门原理",
+      "path": "无线磁门开发/无线磁门原理.md"
     },
     {
-      "basename": "Brief",
-      "path": "DataStructure/Brief.md"
+      "basename": "MAC",
+      "path": "网络通信/MAC.md"
     },
     {
-      "basename": "顺序表",
-      "path": "DataStructure/顺序表.md"
-    },
-    {
-      "basename": "CAN",
-      "path": "CAN/CAN.md"
+      "basename": "示波器参数",
+      "path": "示波器参数/示波器参数.md"
     },
     {
       "basename": "简介",
       "path": "51单片机/简介.md"
     },
     {
-      "basename": "2023-11-20-Mon",
-      "path": "Diary/2023-11-20-Mon.md"
+      "basename": "第二章",
+      "path": "电路复习/第二章.md"
     },
     {
-      "basename": "置身事外",
-      "path": "Ecnomic/置身事外.md"
+      "basename": "第一章",
+      "path": "电路复习/第一章.md"
+    },
+    {
+      "basename": "视唱练耳",
+      "path": "音乐/视唱练耳.md"
+    },
+    {
+      "basename": "基础乐理",
+      "path": "音乐/基础乐理.md"
+    },
+    {
+      "basename": "2024-05-18-Sat",
+      "path": "Diary/2024-05-18-Sat.md"
+    },
+    {
+      "basename": "寻找人生的目标",
+      "path": "philosophy/寻找人生的目标.md"
+    },
+    {
+      "basename": "如何超越与生俱来的弱点",
+      "path": "philosophy/如何超越与生俱来的弱点.md"
+    },
+    {
+      "basename": "认知觉醒",
+      "path": "philosophy/认知觉醒.md"
+    },
+    {
+      "basename": "买房需考虑因素",
+      "path": "philosophy/买房需考虑因素.md"
+    },
+    {
+      "basename": "刻意练习",
+      "path": "philosophy/刻意练习.md"
+    },
+    {
+      "basename": "进化心理学",
+      "path": "philosophy/进化心理学.md"
+    },
+    {
+      "basename": "黑格尔",
+      "path": "philosophy/黑格尔.md"
+    },
+    {
+      "basename": "蛤蟆先生去看心理医生",
+      "path": "philosophy/蛤蟆先生去看心理医生.md"
+    },
+    {
+      "basename": "费希特",
+      "path": "philosophy/费希特.md"
+    },
+    {
+      "basename": "哲学书籍",
+      "path": "philosophy/哲学书籍/哲学书籍.md"
+    },
+    {
+      "basename": "伊曼努尔 康德",
+      "path": "philosophy/哲学书籍/伊曼努尔 康德.md"
+    },
+    {
+      "basename": "哲学的历程",
+      "path": "philosophy/哲学史/哲学的历程.md"
+    },
+    {
+      "basename": "西方哲学史",
+      "path": "philosophy/哲学史/西方哲学史.md"
+    },
+    {
+      "basename": "自我决定理论",
+      "path": "philosophy/认同自己/自我决定理论.md"
+    },
+    {
+      "basename": "你为何不自信",
+      "path": "philosophy/认同自己/你为何不自信.md"
+    },
+    {
+      "basename": "被讨厌的勇气",
+      "path": "philosophy/认同自己/被讨厌的勇气.md"
+    },
+    {
+      "basename": "2024-05-17-Fri",
+      "path": "Diary/2024-05-17-Fri.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "摘抄/Untitled.md"
+    },
+    {
+      "basename": "自我分析",
+      "path": "philosophy/自我分析.md"
+    },
+    {
+      "basename": "我的哲学观点",
+      "path": "philosophy/我的哲学观点.md"
+    },
+    {
+      "basename": "摘抄",
+      "path": "philosophy/摘抄.md"
+    },
+    {
+      "basename": "2024-05-16-Thu",
+      "path": "Diary/2024-05-16-Thu.md"
+    },
+    {
+      "basename": "生命的心流",
+      "path": "philosophy/生命的心流.md"
+    },
+    {
+      "basename": "柏拉图",
+      "path": "philosophy/哲学书籍/柏拉图.md"
+    },
+    {
+      "basename": "meditation",
+      "path": "philosophy/meditation.md"
+    },
+    {
+      "basename": "2024-05-15-Wed",
+      "path": "Diary/2024-05-15-Wed.md"
+    },
+    {
+      "basename": "2024-05-13-Mon",
+      "path": "Diary/2024-05-13-Mon.md"
+    },
+    {
+      "basename": "MarkdownTemplate",
+      "path": "MarkdownTemplate.md"
+    },
+    {
+      "basename": "2024-05-11-Sat",
+      "path": "Diary/2024-05-11-Sat.md"
+    },
+    {
+      "basename": "2024-05-10-Fri",
+      "path": "Diary/2024-05-10-Fri.md"
+    },
+    {
+      "basename": "cooking",
+      "path": "cooking/cooking.md"
+    },
+    {
+      "basename": "2024-05-09-Thu",
+      "path": "Diary/2024-05-09-Thu.md"
+    },
+    {
+      "basename": "Pasted image 20230625115810",
+      "path": "Pasted image 20230625115810.png"
+    },
+    {
+      "basename": "2024-05-06-Mon",
+      "path": "Diary/2024-05-06-Mon.md"
+    },
+    {
+      "basename": "2024-05-08-Wed",
+      "path": "Diary/2024-05-08-Wed.md"
     }
   ],
   "omittedPaths": [],
