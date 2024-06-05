@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f386207e3ec6c2a1",
+        "id": "198653a89aa45c07",
         "type": "tabs",
         "children": [
           {
-            "id": "06a43e6acb0a724b",
+            "id": "f4de870a22dadd4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-03-19-Sun.md",
+                "file": "cooking/cooking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7571316c04fd74b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024-06-04-Tue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-03-19-Sun.md",
+                "file": "Diary/2024-06-04-Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-03-19-Sun.md",
+                "file": "Diary/2024-06-04-Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-03-19-Sun.md"
+                "file": "Diary/2024-06-04-Tue.md"
               }
             }
           },
@@ -185,53 +198,53 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "06a43e6acb0a724b",
+  "active": "c7571316c04fd74b",
   "lastOpenFiles": [
-    "Diary/2023-03-18-Sat.md",
-    "Diary/2023-03-17-Fri.md",
-    "Diary/2023-03-19-Sun.md",
-    "Test/flow chart.md",
-    "Diary/2023-03-16-Thu.md",
-    "Git/Git 复习.md",
-    "无线磁门开发/无线磁门原理.md",
-    "网络通信/MAC.md",
-    "示波器参数/示波器参数.md",
-    "51单片机/简介.md",
+    "Diary/2024-06-03-Mon.md",
+    "Diary/2024-06-04-Tue.md",
     "电路复习/第二章.md",
     "电路复习/第一章.md",
-    "音乐/视唱练耳.md",
-    "音乐/基础乐理.md",
-    "Diary/2024-05-18-Sat.md",
-    "philosophy/寻找人生的目标.md",
-    "philosophy/如何超越与生俱来的弱点.md",
-    "philosophy/认知觉醒.md",
-    "philosophy/买房需考虑因素.md",
-    "philosophy/刻意练习.md",
-    "philosophy/进化心理学.md",
-    "philosophy/黑格尔.md",
-    "philosophy/蛤蟆先生去看心理医生.md",
-    "philosophy/费希特.md",
+    "摘抄/Untitled.md",
+    "开车/侧方位停车.md",
+    "RTOS/freertos.md",
+    "RTOS/任务调度原理.md",
     "philosophy/哲学书籍/哲学书籍.md",
     "philosophy/哲学书籍/伊曼努尔 康德.md",
+    "philosophy/哲学书籍/纯粹的理性批判.md",
+    "philosophy/哲学史/哲学的历程.md",
+    "philosophy/哲学史/西方哲学史.md",
+    "philosophy/认同自己/自我决定理论.md",
+    "philosophy/亲密关系.md",
+    "philosophy/全灾难人生.md",
+    "philosophy/认知觉醒.md",
+    "philosophy/如何超越与生俱来的弱点.md",
+    "philosophy/生命的心流.md",
+    "philosophy/我的哲学观点.md",
+    "philosophy/寻找人生的目标.md",
+    "philosophy/原子习惯.md",
+    "philosophy/摘抄.md",
+    "philosophy/自我分析.md",
+    "philosophy/meditation.md",
+    "philosophy/蛤蟆先生去看心理医生.md",
+    "Pasted image 20240529230351.png",
+    "Pasted image 20240529214321.png",
+    "Pasted image 20240529213425.png",
+    "开车",
+    "Pasted image 20230627132203.png",
+    "Pasted image 20230627132552.png",
+    "Pasted image 20240529155554.png",
+    "Pasted image 20240529155243.png",
+    "Pasted image 20240529155133.png",
+    "Pasted image 20240529132709.png",
     "Pasted image 20240516133735.png",
-    "Pasted image 20230625115810.png",
     "cooking",
-    "Pasted image 20230627134945.png",
-    "Pasted image 20230627133750.png",
-    "Pasted image 20230627132702.png",
-    "Pasted image 20230627132303.png",
-    "Pasted image 20230625150609.png",
     "Improve Efficence",
     "philosophy/哲学史",
     "philosophy/哲学书籍",
     "Untitled 1",
     "learning-record",
-    "Pasted image 20230628123651.png",
-    "Pasted image 20230627135320.png",
-    "Pasted image 20230627134625.png",
     "音乐",
     "Ecnomic",
-    "摘抄",
-    "philosophy/认同自己"
+    "摘抄"
   ]
 }
