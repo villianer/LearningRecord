@@ -5,20 +5,8 @@
       "path": "Diary/2024-06-07-Fri.md"
     },
     {
-      "basename": "2024-06-06-Thu",
-      "path": "Diary/2024-06-06-Thu.md"
-    },
-    {
-      "basename": "2024-06-05-Wed",
-      "path": "Diary/2024-06-05-Wed.md"
-    },
-    {
-      "basename": "2024-06-04-Tue",
-      "path": "Diary/2024-06-04-Tue.md"
-    },
-    {
-      "basename": "视唱练耳",
-      "path": "音乐/视唱练耳.md"
+      "basename": "2023-12-06-Wed",
+      "path": "Diary/2023-12-06-Wed.md"
     },
     {
       "basename": "基础乐理",
@@ -29,48 +17,8 @@
       "path": "philosophy/如何超越与生俱来的弱点.md"
     },
     {
-      "basename": "认知觉醒",
-      "path": "philosophy/认知觉醒.md"
-    },
-    {
-      "basename": "被讨厌的勇气",
-      "path": "philosophy/认同自己/被讨厌的勇气.md"
-    },
-    {
-      "basename": "发现你的天职",
-      "path": "philosophy/认同自己/发现你的天职.md"
-    },
-    {
       "basename": "你为何不自信",
       "path": "philosophy/认同自己/你为何不自信.md"
-    },
-    {
-      "basename": "自我决定理论",
-      "path": "philosophy/认同自己/自我决定理论.md"
-    },
-    {
-      "basename": "刻意练习",
-      "path": "philosophy/刻意练习.md"
-    },
-    {
-      "basename": "黑格尔",
-      "path": "philosophy/黑格尔.md"
-    },
-    {
-      "basename": "爱人",
-      "path": "philosophy/认同自己/爱人.md"
-    },
-    {
-      "basename": "Rules",
-      "path": "Improve Efficence/Rules.md"
-    },
-    {
-      "basename": "寻找人生的目标",
-      "path": "philosophy/寻找人生的目标.md"
-    },
-    {
-      "basename": "cooking",
-      "path": "cooking/cooking.md"
     },
     {
       "basename": "OTA",
@@ -89,10 +37,6 @@
       "path": "Template/test template.md"
     },
     {
-      "basename": "2024-06-03-Mon",
-      "path": "Diary/2024-06-03-Mon.md"
-    },
-    {
       "basename": "第二章",
       "path": "电路复习/第二章.md"
     },
@@ -105,84 +49,12 @@
       "path": "摘抄/Untitled.md"
     },
     {
-      "basename": "侧方位停车",
-      "path": "开车/侧方位停车.md"
-    },
-    {
       "basename": "freertos",
       "path": "RTOS/freertos.md"
     },
     {
       "basename": "任务调度原理",
       "path": "RTOS/任务调度原理.md"
-    },
-    {
-      "basename": "哲学书籍",
-      "path": "philosophy/哲学书籍/哲学书籍.md"
-    },
-    {
-      "basename": "伊曼努尔 康德",
-      "path": "philosophy/哲学书籍/伊曼努尔 康德.md"
-    },
-    {
-      "basename": "纯粹的理性批判",
-      "path": "philosophy/哲学书籍/纯粹的理性批判.md"
-    },
-    {
-      "basename": "哲学的历程",
-      "path": "philosophy/哲学史/哲学的历程.md"
-    },
-    {
-      "basename": "西方哲学史",
-      "path": "philosophy/哲学史/西方哲学史.md"
-    },
-    {
-      "basename": "亲密关系",
-      "path": "philosophy/亲密关系.md"
-    },
-    {
-      "basename": "全灾难人生",
-      "path": "philosophy/全灾难人生.md"
-    },
-    {
-      "basename": "生命的心流",
-      "path": "philosophy/生命的心流.md"
-    },
-    {
-      "basename": "我的哲学观点",
-      "path": "philosophy/我的哲学观点.md"
-    },
-    {
-      "basename": "原子习惯",
-      "path": "philosophy/原子习惯.md"
-    },
-    {
-      "basename": "摘抄",
-      "path": "philosophy/摘抄.md"
-    },
-    {
-      "basename": "自我分析",
-      "path": "philosophy/自我分析.md"
-    },
-    {
-      "basename": "meditation",
-      "path": "philosophy/meditation.md"
-    },
-    {
-      "basename": "蛤蟆先生去看心理医生",
-      "path": "philosophy/蛤蟆先生去看心理医生.md"
-    },
-    {
-      "basename": "2024-06-01-Sat",
-      "path": "Diary/2024-06-01-Sat.md"
-    },
-    {
-      "basename": "2024-05-31-Fri",
-      "path": "Diary/2024-05-31-Fri.md"
-    },
-    {
-      "basename": "2024-06-02-Sun",
-      "path": "Diary/2024-06-02-Sun.md"
     },
     {
       "basename": "Brief",
@@ -195,10 +67,6 @@
     {
       "basename": "ARM Cortex-M",
       "path": "ARM/ARM Cortex-M.md"
-    },
-    {
-      "basename": "买房需考虑因素",
-      "path": "philosophy/买房需考虑因素.md"
     }
   ],
   "omittedPaths": [],
