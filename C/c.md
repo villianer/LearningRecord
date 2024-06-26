@@ -1,0 +1,61 @@
+.c文件组成
+	- 宏 
+		- #include 
+			- #include<stdio.h>
+			- #include <stdlib.h>
+		- 条件编译
+			- #if (判断条件 布尔值) #endif
+			-  #if def (判断是否定义了某个常量) #elif def#endif
+			-  #if undef #endif
+		- #define
+			- 使用`#define`来定义一个标识符来表示一个常量,或定义一些宏 定义的标识符,并不占用程序内存,在预编译阶段对程序代码进行文本替换
+			- #define 表示表达式 eg:#define MAX(a,b) ((a)>(b)?(a):(b))  #将参数变为字符串 eg: #define PRINT(x) printf("hello "#x)  ##进行字符串拼接 #define ARR_SUM(num,value) arr##num = valu
+		- #undef 取消已经定义的宏
+		- #program
+		- #error 指令将使编译器显示一条错误信息，然后停止编译 eg: #ifndef SHOW_INFO #error you must define SHOW_INFO marco. #endif
+	- 注释 //  /* *//
+	- 常量
+		- 整型常量
+		- 
+			- decimal 1223
+			- 八进制 otcal 0开头的数字 0123
+			- 十六进制 0x开头的数字  0x1233
+		- 浮点型常量  、
+			- double 1.2222
+			- float 1.2333l
+			- 科学计数法表示 3.2e3f
+		- 字符型常量 ‘a'  ’b' 对应ascii码表存储
+		- 字符串常量 ”啊“   "asdddd" 等 以字符串的形式存储在内存中 字符串以 '\0'结尾
+	- 关键字
+		- 数据类型 
+			- 基本数据类型 unsigned char short int long float double
+			- 引用数据类型 enum union struct
+		- 控制 if else do while  for switch case default break continue goto
+		- 限定符
+			- extern :声明一个变量 函数，作用是表示此变量/函数在当前文件外定义的，在此处引用
+			- const 
+				- const 修饰变量 变量为常量 不能重新赋值 但是可以通过指针修改
+				- const 修饰数组  数组内容也不能改变 同样可以通过指针修改
+				- const 修饰 指针
+					- 1. const int * p  此时*   *p指向的内容不能修改  p本声所代表的地址可以修改
+			- volatile 修饰变量 表示这个变量是非常容易发生变化的 不要把他的读到寄存器中
+			- register 建议cpu把变量放入寄存器中，表示这个变量经常会使用，可以提高运行效率
+			- static
+				- static 修饰的全局变量只初始化一次，旨在本文件内有效
+				- static 修饰时的局部变量值初始化一次，默认初始化 作用域只在{}内有用 生命周期与程序运行周期相同
+				- static 修饰的函数 表示函数的作用范围只在当前文件有效，不可以在其他文件中调用声明 不同文件的static函数可以相同
+			- #define NULL ((void *)0)
+	- 标识符： 标识符只能由字母数字下划线组成 第一个字母必须是字母或者下划线
+	- 符号 ; {} ()
+	- 运算符
+		- 算数运算符 + - *  /  % ++ --
+		- 逻辑运算符 && || !
+		- 赋值运算符 = 
+		- 比较运算符 > < >= <= == !=
+		- 移位运算符 >> << >>> ~ & |  ^
+		- 三目运算符 a>b?a:b
+		- sizeof
+	- 指针
+		- 万能指针 void \* 可以指向任意变量的内存空间
+		- 数组名 arr1 表示数组的首元素的地址，但是是一个常量 不可以修改  &arr1+1表示偏移整个数组大小 数组末地址+1  arr1+1表示偏移一个数组中元素的距离
+		- 指针数组 元素为指针的数组  数组指针 指向数组的指针

@@ -1,3 +1,8 @@
+``` mermaid 
+    flowchart TB
+    A(x)-->B{DDD}-->C[DDDD]
+    B--ERROR-->A
+```
 
 ``` mermaid
 flowchart TD
