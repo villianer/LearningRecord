@@ -487,7 +487,15 @@
       "content": "gitGraph\n        commit id: \"ZERO\"\n        branch develop\n        commit id:\"A\"\n        checkout main\n        commit id:\"ONE\"\n        checkout develop\n        commit id:\"B\"\n        checkout main\n        commit id:\"TWO\"\n        cherry-pick id:\"A\"\n        commit id:\"THREE\"\n        checkout develop\n        commit id:\"C\"",
       "sortingOrder": 0,
       "isPinned": false
+    },
+    {
+      "id": "4da92e52-7899-4abc-bb1f-b9991afd429e",
+      "category": "ClassDiagram",
+      "description": "sample class (copy)",
+      "content": "class Duck{\n            +String beakColor\n            +swim()\n            +quack()\n        }",
+      "sortingOrder": 68,
+      "isPinned": false
     }
   ],
-  "selectedCategory": "StateDiagram"
+  "selectedCategory": "PieChart"
 }

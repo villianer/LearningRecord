@@ -1,92 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "自控力",
-      "path": "philosophy/哲学书籍/自控力.md"
+      "basename": "入门",
+      "path": "Git/入门.md"
     },
     {
-      "basename": "C++",
-      "path": "C/C++.md"
+      "basename": "2023-03-25-Sat",
+      "path": "Diary/2023-03-25-Sat.md"
     },
     {
-      "basename": "指针简介",
-      "path": "c语言指针/指针简介.md"
+      "basename": "2023-03-26-Sun",
+      "path": "Diary/2023-03-26-Sun.md"
     },
     {
-      "basename": "指针",
-      "path": "c语言指针/指针.md"
+      "basename": "2023-03-24-Fri",
+      "path": "Diary/2023-03-24-Fri.md"
     },
     {
-      "basename": "Printf函数与putchar函数",
-      "path": "C/Printf函数与putchar函数.md"
+      "basename": "2023-03-23-Thu",
+      "path": "Diary/2023-03-23-Thu.md"
     },
     {
-      "basename": "Key word 32",
-      "path": "C/Key word 32.md"
+      "basename": "2023-03-22-Wed",
+      "path": "Diary/2023-03-22-Wed.md"
     },
     {
-      "basename": "C语言的编成机制",
-      "path": "C/C语言的编成机制.md"
+      "basename": "2023-03-21-Tue",
+      "path": "Diary/2023-03-21-Tue.md"
     },
     {
-      "basename": "c",
-      "path": "C/c.md"
+      "basename": "2023-03-20-Mon",
+      "path": "Diary/2023-03-20-Mon.md"
     },
     {
-      "basename": "运算符",
-      "path": "C/运算符.md"
+      "basename": "2023-03-19-Sun",
+      "path": "Diary/2023-03-19-Sun.md"
     },
     {
-      "basename": "数组",
-      "path": "C/数组.md"
+      "basename": "2023-03-18-Sat",
+      "path": "Diary/2023-03-18-Sat.md"
     },
     {
-      "basename": "数据类型转换",
-      "path": "C/数据类型转换.md"
+      "basename": "2023-03-17-Fri",
+      "path": "Diary/2023-03-17-Fri.md"
     },
     {
-      "basename": "数据类型",
-      "path": "C/数据类型.md"
+      "basename": "2023-03-16-Thu",
+      "path": "Diary/2023-03-16-Thu.md"
+    },
+    {
+      "basename": "flow chart",
+      "path": "Test/flow chart.md"
+    },
+    {
+      "basename": "Diary template",
+      "path": "Template/Diary template.md"
+    },
+    {
+      "basename": "基础乐理",
+      "path": "音乐/基础乐理.md"
+    },
+    {
+      "basename": "Git 复习",
+      "path": "Git/Git 复习.md"
     },
     {
       "basename": "函数",
       "path": "C/函数.md"
     },
     {
-      "basename": "不可打扰",
-      "path": "philosophy/不可打扰.md"
+      "basename": "数据类型",
+      "path": "C/数据类型.md"
     },
     {
-      "basename": "亲密关系",
-      "path": "philosophy/亲密关系.md"
+      "basename": "ARM Cortex-M",
+      "path": "ARM/ARM Cortex-M.md"
     },
     {
-      "basename": "进化心理学",
-      "path": "philosophy/进化心理学.md"
+      "basename": "Untitled",
+      "path": "摘抄/Untitled.md"
     },
     {
-      "basename": "刻意练习",
-      "path": "philosophy/刻意练习.md"
+      "basename": "视唱练耳基本原理与自我训练",
+      "path": "音乐/视唱练耳基本原理与自我训练.md"
     },
     {
       "basename": "视唱练耳",
       "path": "音乐/视唱练耳.md"
     },
     {
-      "basename": "2024-06-24-Mon",
-      "path": "Diary/2024-06-24-Mon.md"
+      "basename": "无线磁门原理",
+      "path": "无线磁门开发/无线磁门原理.md"
     },
     {
-      "basename": "2024-06-21-Fri",
-      "path": "Diary/2024-06-21-Fri.md"
+      "basename": "MAC",
+      "path": "网络通信/MAC.md"
     },
     {
-      "basename": "2024-06-20-Thu",
-      "path": "Diary/2024-06-20-Thu.md"
+      "basename": "Modbus",
+      "path": "通讯协议/Modbus.md"
     },
     {
-      "basename": "2024-06-25-Tue",
-      "path": "Diary/2024-06-25-Tue.md"
+      "basename": "示波器参数",
+      "path": "示波器参数/示波器参数.md"
+    },
+    {
+      "basename": "倒车入库",
+      "path": "开车/倒车入库.md"
+    },
+    {
+      "basename": "侧方位停车",
+      "path": "开车/侧方位停车.md"
+    },
+    {
+      "basename": "第二章",
+      "path": "电路复习/第二章.md"
+    },
+    {
+      "basename": "第一章",
+      "path": "电路复习/第一章.md"
+    },
+    {
+      "basename": "简介",
+      "path": "51单片机/简介.md"
+    },
+    {
+      "basename": "2025-03-25-Tue",
+      "path": "Diary/2025-03-25-Tue.md"
+    },
+    {
+      "basename": "存在主义治疗",
+      "path": "philosophy/存在主义治疗.md"
+    },
+    {
+      "basename": "2025-03-24-Mon",
+      "path": "Diary/2025-03-24-Mon.md"
     },
     {
       "basename": "原子习惯",
@@ -105,100 +153,52 @@
       "path": "philosophy/生命的心流.md"
     },
     {
-      "basename": "发现你的天职",
-      "path": "philosophy/认同自己/发现你的天职.md"
+      "basename": "如何超越与生俱来的弱点",
+      "path": "philosophy/如何超越与生俱来的弱点.md"
     },
     {
-      "basename": "你为何不自信",
-      "path": "philosophy/认同自己/你为何不自信.md"
+      "basename": "亲密关系",
+      "path": "philosophy/亲密关系.md"
     },
     {
-      "basename": "自我决定理论",
-      "path": "philosophy/认同自己/自我决定理论.md"
+      "basename": "买房需考虑因素",
+      "path": "philosophy/买房需考虑因素.md"
     },
     {
-      "basename": "哲学书籍",
-      "path": "philosophy/哲学书籍/哲学书籍.md"
+      "basename": "刻意练习",
+      "path": "philosophy/刻意练习.md"
     },
     {
-      "basename": "纯粹的理性批判",
-      "path": "philosophy/哲学书籍/纯粹的理性批判.md"
+      "basename": "进化心理学",
+      "path": "philosophy/进化心理学.md"
     },
     {
-      "basename": "柏拉图",
-      "path": "philosophy/哲学书籍/柏拉图.md"
+      "basename": "黑格尔",
+      "path": "philosophy/黑格尔.md"
     },
     {
-      "basename": "哲学的历程",
-      "path": "philosophy/哲学史/哲学的历程.md"
+      "basename": "蛤蟆先生去看心理医生",
+      "path": "philosophy/蛤蟆先生去看心理医生.md"
     },
     {
-      "basename": "ARM Cortex-M",
-      "path": "ARM/ARM Cortex-M.md"
+      "basename": "费希特",
+      "path": "philosophy/费希特.md"
     },
     {
-      "basename": "Rules",
-      "path": "Improve Efficence/Rules.md"
+      "basename": "meditation",
+      "path": "philosophy/meditation.md"
     },
     {
-      "basename": "Diary template",
-      "path": "Template/Diary template.md"
+      "basename": "2024-09-13-Fri",
+      "path": "Diary/2024-09-13-Fri.md"
     },
     {
-      "basename": "git-cheat-sheet",
-      "path": "Git/git-cheat-sheet.pdf"
+      "basename": "2025-03-20-Thu",
+      "path": "Diary/2025-03-20-Thu.md"
     },
     {
-      "basename": "2023-04-08-Sat",
-      "path": "Diary/2023-04-08-Sat.md"
-    },
-    {
-      "basename": "2023-04-07-Fri",
-      "path": "Diary/2023-04-07-Fri.md"
-    },
-    {
-      "basename": "2023-06-27-Tue",
-      "path": "Diary/2023-06-27-Tue.md"
-    },
-    {
-      "basename": "2023-07-08-Sat",
-      "path": "Diary/2023-07-08-Sat.md"
-    },
-    {
-      "basename": "2023-07-17-Mon",
-      "path": "Diary/2023-07-17-Mon.md"
-    },
-    {
-      "basename": "2023-07-18-Tue",
-      "path": "Diary/2023-07-18-Tue.md"
-    },
-    {
-      "basename": "2023-07-28-Fri",
-      "path": "Diary/2023-07-28-Fri.md"
-    },
-    {
-      "basename": "2023-08-15-Tue",
-      "path": "Diary/2023-08-15-Tue.md"
-    },
-    {
-      "basename": "2023-08-18-Fri",
-      "path": "Diary/2023-08-18-Fri.md"
-    },
-    {
-      "basename": "2023-08-02-Wed",
-      "path": "Diary/2023-08-02-Wed.md"
-    },
-    {
-      "basename": "2023-07-27-Thu",
-      "path": "Diary/2023-07-27-Thu.md"
-    },
-    {
-      "basename": "2023-07-15-Sat",
-      "path": "Diary/2023-07-15-Sat.md"
-    },
-    {
-      "basename": "2023-07-11-Tue",
-      "path": "Diary/2023-07-11-Tue.md"
+      "basename": "2025-03-13-Thu",
+      "path": "Diary/2025-03-13-Thu.md"
     }
   ],
   "omittedPaths": [],
