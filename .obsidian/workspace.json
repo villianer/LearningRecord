@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3c3b66ed317d5997",
+        "id": "be3441e547780cda",
         "type": "tabs",
         "children": [
           {
-            "id": "b6fbebc485288d91",
+            "id": "b9e1442d619520bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/认同自己/跳出头脑融入生活.md",
+                "file": "Linux/嵌入式Linux应用开发完全手册.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "跳出头脑融入生活"
-            }
-          },
-          {
-            "id": "1c3d1b10580a40f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "philosophy/认同自己/自我决定理论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "自我决定理论"
-            }
-          },
-          {
-            "id": "d83380787f230fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "摘抄/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "e657ad8b2142bed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/入门.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "入门"
+              "title": "嵌入式Linux应用开发完全手册"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#if",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b70000125f5efa3c",
@@ -221,7 +179,7 @@
             }
           },
           {
-            "id": "065825b71f1ca44b",
+            "id": "c234d37f6cca41d3",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -253,53 +211,52 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e657ad8b2142bed1",
+  "active": "b9e1442d619520bf",
   "lastOpenFiles": [
-    "Diary/2023-03-25-Sat.md",
-    "Diary/2023-03-26-Sun.md",
-    "Diary/2023-03-24-Fri.md",
-    "Diary/2023-03-23-Thu.md",
-    "Diary/2023-03-22-Wed.md",
-    "Diary/2023-03-21-Tue.md",
-    "Diary/2023-03-20-Mon.md",
-    "Diary/2023-03-19-Sun.md",
-    "Diary/2023-03-18-Sat.md",
-    "Diary/2023-03-17-Fri.md",
-    "Diary/2023-03-16-Thu.md",
+    "Linux/鸟叔的Linux私房课.md",
+    "Linux/嵌入式Linux应用开发完全手册.md",
+    "Linux/images/ff1bda432d31179798d58085d3024212fd33f4af6830bf594f0fc5ed46a1ddbc.jpg",
+    "Linux/images/fe1d60226a16f9fb947866ed9076e9f4f0ba36a0685d5a5e6ef0ef44d5945d0c.jpg",
+    "Linux/images/fd8af6632c2dbbd243ec2fc2d2d24f00c48d5ce6b00f644fb6069f7ef8100a24.jpg",
+    "Linux/images/fd52a6b986d63141b879d4d11265091a4f5479f2243bf7acc6fd3e0f9ba65a0d.jpg",
+    "Linux/images/fcd9c0050e30268363cfcd358303ee56d337a33bf9551f31ab559d6633e0daf7.jpg",
+    "Linux/images/fcd151b8cf4213323b745b4976ac821e87fbe2f6d905ff1e91ab897e1306f530.jpg",
+    "Linux/images/fcbffdee8e67e22a781356751abb7763ef9699b72f1924fe893407621c934d78.jpg",
+    "Linux/images/fc7a338b791fccfea376981d9fc13d88948c5b1afeb883be36e53946d1f86f11.jpg",
+    "Linux/images/fc299331a7347e6e7e081bc52e9999c3955c943c4bb23d36216fad30a2f77961.jpg",
+    "Linux/images/fc0d4aec94871f7f25c3116126098aaf2bfa93044bb3ea4e6940bfe0b0192abd.jpg",
+    "Linux/images",
+    "Test/testtemplatepractice.md",
+    "Untitled",
     "Test/flow chart.md",
-    "Template/Diary template.md",
-    "音乐/基础乐理.md",
-    "Git/Git 复习.md",
-    "C/函数.md",
-    "C/数据类型.md",
-    "ARM/ARM Cortex-M.md",
+    "MarkdownTemplate.md",
+    "().md",
+    "screenshoot",
+    "Diary/2025-06-17-Tue.md",
     "摘抄/Untitled.md",
-    "音乐/视唱练耳基本原理与自我训练.md",
+    "Diary/2025-06-13-Fri.md",
+    "Diary/2025-06-12-Thu.md",
+    "Linux",
+    "Diary/2023-03-16-Thu.md",
+    "Diary/2025-06-10-Tue.md",
     "音乐/视唱练耳.md",
-    "无线磁门开发/无线磁门原理.md",
-    "网络通信/MAC.md",
-    "通讯协议/Modbus.md",
-    "示波器参数/示波器参数.md",
-    "开车/倒车入库.md",
+    "音乐/基础乐理.md",
+    "philosophy/买房需考虑因素.md",
+    "philosophy/进化心理学.md",
+    "philosophy/哲学书籍/哲学书籍.md",
+    "philosophy/哲学书籍/伊曼努尔 康德.md",
+    "philosophy/哲学书籍/笛卡尔的错误.md",
+    "philosophy/哲学书籍/纯粹的理性批判.md",
+    "philosophy/哲学书籍/柏拉图.md",
+    "philosophy/不可打扰.md",
+    "philosophy/存在主义治疗.md",
+    "philosophy/费希特.md",
+    "philosophy/刻意练习.md",
     "Git/git-cheat-sheet.pdf",
     "剧本",
     "通讯协议",
     "开车",
     "个人需求.xmind",
-    "philosophy/哲学史",
-    "philosophy/哲学书籍",
-    "cooking",
-    "Pasted image 20240529230351.png",
-    "Pasted image 20240529214321.png",
-    "Pasted image 20240529213425.png",
-    "Pasted image 20240529155554.png",
-    "Pasted image 20240529155243.png",
-    "Pasted image 20240529155133.png",
-    "Pasted image 20240529132709.png",
-    "Pasted image 20240516133735.png",
-    "Improve Efficence",
-    "Export/ESP8266 AT指令",
-    "Pasted image 20230627132203.png",
-    "Pasted image 20230627132552.png"
+    "philosophy/哲学史"
   ]
 }

@@ -11,7 +11,7 @@
 			- 使用`#define`来定义一个标识符来表示一个常量,或定义一些宏 定义的标识符,并不占用程序内存,在预编译阶段对程序代码进行文本替换
 			- #define 表示表达式 eg:#define MAX(a,b) ((a)>(b)?(a):(b))  #将参数变为字符串 eg: #define PRINT(x) printf("hello "#x)  ##进行字符串拼接 #define ARR_SUM(num,value) arr##num = valu
 		- #undef 取消已经定义的宏
-		- #program
+		- #program ：表示一条编译器要执行的命令
 		- #error 指令将使编译器显示一条错误信息，然后停止编译 eg: #ifndef SHOW_INFO #error you must define SHOW_INFO marco. #endif
 	- 注释 //  /* *//
 	- 常量
