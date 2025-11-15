@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "be3441e547780cda",
+        "id": "39862a14cfba86fb",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e1442d619520bf",
+            "id": "a54991341aaba897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025-10-20-Mon.md",
+                "file": "Diary/2024-09-13-Fri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-20-Mon"
-            }
-          },
-          {
-            "id": "0b4db8970779f082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2025-11-15-Sat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-15-Sat"
+              "title": "2024-09-13-Fri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,50 +211,50 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0b4db8970779f082",
+  "active": "a54991341aaba897",
   "lastOpenFiles": [
-    "philosophy/哲学书籍/理想国.md",
-    "Diary/2025-11-15-Sat.md",
-    "philosophy/哲学书籍/柏拉图.md",
-    "Diary/2025-11-10-Mon.md",
-    "Diary/2025-11-04-Tue.md",
-    "philosophy/不可打扰.md",
-    "Diary/2025-11-03-Mon.md",
-    "Diary/2025-10-27-Mon.md",
-    "Linux/鸟叔的Linux私房课.md",
-    "Diary/2025-10-20-Mon.md",
-    "Diary/2025-09-04-Thu.md",
-    "Linux/嵌入式Linux应用开发完全手册.md",
-    "Diary/2025-09-03-Wed.md",
-    "Diary/2025-08-20-Wed.md",
-    "Diary/2025-09-02-Tue.md",
-    "CAN/CAN.md",
-    "philosophy/进化心理学.md",
-    "Diary/2025-09-01-Mon.md",
-    "Diary/2025-08-27-Wed.md",
-    "philosophy/自控力.md",
-    "Diary/2025-08-12-Tue.md",
-    "Diary/2025-07-07-Mon.md",
+    "Diary/2024-09-12-Thu.md",
+    "Diary/2024-09-02-Mon.md",
+    "Diary/2024-09-03-Tue.md",
+    "Diary/2024-09-05-Thu.md",
+    "Diary/2024-09-10-Tue.md",
+    "Diary/2024-09-11-Wed.md",
+    "Diary/2024-09-13-Fri.md",
     "加密货币/比特币与以太坊比较_.md",
-    "Diary/2025-06-25-Wed.md",
     "加密货币",
-    "新建文件夹",
-    "Linux/images/ff1bda432d31179798d58085d3024212fd33f4af6830bf594f0fc5ed46a1ddbc.jpg",
-    "Linux/images/fe1d60226a16f9fb947866ed9076e9f4f0ba36a0685d5a5e6ef0ef44d5945d0c.jpg",
-    "Linux/images/fd8af6632c2dbbd243ec2fc2d2d24f00c48d5ce6b00f644fb6069f7ef8100a24.jpg",
-    "Linux/images/fd52a6b986d63141b879d4d11265091a4f5479f2243bf7acc6fd3e0f9ba65a0d.jpg",
-    "Linux/images/fcd9c0050e30268363cfcd358303ee56d337a33bf9551f31ab559d6633e0daf7.jpg",
-    "Linux/images/fcd151b8cf4213323b745b4976ac821e87fbe2f6d905ff1e91ab897e1306f530.jpg",
-    "Linux/images/fcbffdee8e67e22a781356751abb7763ef9699b72f1924fe893407621c934d78.jpg",
-    "Linux/images/fc7a338b791fccfea376981d9fc13d88948c5b1afeb883be36e53946d1f86f11.jpg",
-    "Linux/images/fc299331a7347e6e7e081bc52e9999c3955c943c4bb23d36216fad30a2f77961.jpg",
-    "Linux/images/fc0d4aec94871f7f25c3116126098aaf2bfa93044bb3ea4e6940bfe0b0192abd.jpg",
-    "Linux/images",
-    "Test/testtemplatepractice.md",
-    "Untitled",
-    "Test/flow chart.md",
-    "screenshoot",
+    "philosophy/认同自己/跳出头脑融入生活.md",
+    "philosophy/自控力.md",
+    "philosophy/存在主义治疗.md",
+    "philosophy/哲学史/Untitled.md",
+    "philosophy/哲学书籍/笛卡尔的错误.md",
+    "philosophy/哲学书籍/理想国.md",
+    "philosophy/哲学书籍/Untitled.md",
+    "philosophy/ACT就是这么简单.md",
+    "Linux/鸟叔的Linux私房课.md",
+    "Linux/嵌入式Linux应用开发完全手册.md",
     "Linux",
+    "Diary/2024-08-20-Tue.md",
+    "Diary/2024-08-19-Mon.md",
+    "Diary/2024-08-16-Fri.md",
+    "Diary/2024-08-14-Wed.md",
+    "Diary/2024-08-13-Tue.md",
+    "Diary/2024-08-12-Mon.md",
+    "Diary/2024-08-10-Sat.md",
+    "Diary/2024-08-09-Fri.md",
+    "Pasted image 20240529230351.png",
+    "Pasted image 20240529214321.png",
+    "Pasted image 20240529213425.png",
+    "Pasted image 20240529155554.png",
+    "Pasted image 20240529155243.png",
+    "Pasted image 20240529155133.png",
+    "Pasted image 20240529132709.png",
+    "Pasted image 20240516133735.png",
+    "Pasted image 20230728165219.png",
+    "Pasted image 20230718193856.png",
+    "新建文件夹",
+    "Linux/images",
+    "Untitled",
+    "screenshoot",
     "Git/git-cheat-sheet.pdf",
     "剧本",
     "通讯协议",
