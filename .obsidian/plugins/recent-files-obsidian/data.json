@@ -1,12 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "嵌入式Linux应用开发完全手册",
-      "path": "Linux/嵌入式Linux应用开发完全手册.md"
+      "basename": "2025-11-15-Sat",
+      "path": "Diary/2025-11-15-Sat.md"
+    },
+    {
+      "basename": "理想国",
+      "path": "philosophy/哲学书籍/理想国.md"
+    },
+    {
+      "basename": "柏拉图",
+      "path": "philosophy/哲学书籍/柏拉图.md"
+    },
+    {
+      "basename": "2025-11-10-Mon",
+      "path": "Diary/2025-11-10-Mon.md"
+    },
+    {
+      "basename": "2025-11-04-Tue",
+      "path": "Diary/2025-11-04-Tue.md"
+    },
+    {
+      "basename": "不可打扰",
+      "path": "philosophy/不可打扰.md"
+    },
+    {
+      "basename": "2025-11-03-Mon",
+      "path": "Diary/2025-11-03-Mon.md"
+    },
+    {
+      "basename": "2025-10-27-Mon",
+      "path": "Diary/2025-10-27-Mon.md"
+    },
+    {
+      "basename": "2025-10-20-Mon",
+      "path": "Diary/2025-10-20-Mon.md"
     },
     {
       "basename": "鸟叔的Linux私房课",
       "path": "Linux/鸟叔的Linux私房课.md"
+    },
+    {
+      "basename": "2025-09-04-Thu",
+      "path": "Diary/2025-09-04-Thu.md"
+    },
+    {
+      "basename": "嵌入式Linux应用开发完全手册",
+      "path": "Linux/嵌入式Linux应用开发完全手册.md"
+    },
+    {
+      "basename": "2025-09-03-Wed",
+      "path": "Diary/2025-09-03-Wed.md"
+    },
+    {
+      "basename": "2025-08-20-Wed",
+      "path": "Diary/2025-08-20-Wed.md"
+    },
+    {
+      "basename": "2025-09-02-Tue",
+      "path": "Diary/2025-09-02-Tue.md"
+    },
+    {
+      "basename": "CAN",
+      "path": "CAN/CAN.md"
+    },
+    {
+      "basename": "进化心理学",
+      "path": "philosophy/进化心理学.md"
+    },
+    {
+      "basename": "2025-09-01-Mon",
+      "path": "Diary/2025-09-01-Mon.md"
+    },
+    {
+      "basename": "2025-08-27-Wed",
+      "path": "Diary/2025-08-27-Wed.md"
+    },
+    {
+      "basename": "自控力",
+      "path": "philosophy/自控力.md"
+    },
+    {
+      "basename": "2025-08-12-Tue",
+      "path": "Diary/2025-08-12-Tue.md"
+    },
+    {
+      "basename": "2025-07-07-Mon",
+      "path": "Diary/2025-07-07-Mon.md"
+    },
+    {
+      "basename": "比特币与以太坊比较_",
+      "path": "加密货币/比特币与以太坊比较_.md"
+    },
+    {
+      "basename": "2025-06-25-Wed",
+      "path": "Diary/2025-06-25-Wed.md"
     },
     {
       "basename": "testtemplatepractice",
@@ -61,10 +149,6 @@
       "path": "philosophy/买房需考虑因素.md"
     },
     {
-      "basename": "进化心理学",
-      "path": "philosophy/进化心理学.md"
-    },
-    {
       "basename": "哲学书籍",
       "path": "philosophy/哲学书籍/哲学书籍.md"
     },
@@ -79,14 +163,6 @@
     {
       "basename": "纯粹的理性批判",
       "path": "philosophy/哲学书籍/纯粹的理性批判.md"
-    },
-    {
-      "basename": "柏拉图",
-      "path": "philosophy/哲学书籍/柏拉图.md"
-    },
-    {
-      "basename": "不可打扰",
-      "path": "philosophy/不可打扰.md"
     },
     {
       "basename": "存在主义治疗",
@@ -123,82 +199,6 @@
     {
       "basename": "原子习惯",
       "path": "philosophy/原子习惯.md"
-    },
-    {
-      "basename": "摘抄",
-      "path": "philosophy/摘抄.md"
-    },
-    {
-      "basename": "自控力",
-      "path": "philosophy/自控力.md"
-    },
-    {
-      "basename": "ACT就是这么简单",
-      "path": "philosophy/ACT就是这么简单.md"
-    },
-    {
-      "basename": "meditation",
-      "path": "philosophy/meditation.md"
-    },
-    {
-      "basename": "2025-06-09-Mon",
-      "path": "Diary/2025-06-09-Mon.md"
-    },
-    {
-      "basename": "Diary template",
-      "path": "Template/Diary template.md"
-    },
-    {
-      "basename": "2025-06-06-Fri",
-      "path": "Diary/2025-06-06-Fri.md"
-    },
-    {
-      "basename": "OTA",
-      "path": "STM32OTA/OTA.md"
-    },
-    {
-      "basename": "跳出头脑融入生活",
-      "path": "philosophy/认同自己/跳出头脑融入生活.md"
-    },
-    {
-      "basename": "自我决定理论",
-      "path": "philosophy/认同自己/自我决定理论.md"
-    },
-    {
-      "basename": "2025-05-23-Fri",
-      "path": "Diary/2025-05-23-Fri.md"
-    },
-    {
-      "basename": "2025-04-14-Mon",
-      "path": "Diary/2025-04-14-Mon.md"
-    },
-    {
-      "basename": "2025-04-13-Sun",
-      "path": "Diary/2025-04-13-Sun.md"
-    },
-    {
-      "basename": "cooking",
-      "path": "cooking/cooking.md"
-    },
-    {
-      "basename": "高傲的猎杀者",
-      "path": "剧本/高傲的猎杀者.md"
-    },
-    {
-      "basename": "2025-04-12-Sat",
-      "path": "Diary/2025-04-12-Sat.md"
-    },
-    {
-      "basename": "指针简介",
-      "path": "c语言指针/指针简介.md"
-    },
-    {
-      "basename": "指针",
-      "path": "c语言指针/指针.md"
-    },
-    {
-      "basename": "C语言的编成机制",
-      "path": "C/C语言的编成机制.md"
     }
   ],
   "omittedPaths": [],
